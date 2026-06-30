@@ -13,11 +13,6 @@ Java • Spring Boot • MySQL • Redis • RabbitMQ • Docker • Railway •
 
 ---
 
-<h2 style="color:#2e7d32;">👩‍💻 Team Members</h2>
-
-
----
-
 <h2 style="color:#2e7d32;">📌 Project Overview</h2>
 
 <p>
