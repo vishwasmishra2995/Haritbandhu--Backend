@@ -15,11 +15,6 @@ Java • Spring Boot • MySQL • Redis • RabbitMQ • Docker • Railway •
 
 <h2 style="color:#2e7d32;">👩‍💻 Team Members</h2>
 
-| Name | Role |
-|------|------|
-| Sneha Gupta | <b style="color:#2e7d32;">Team Lead & Backend Developer</b> (Backend + System +APIs )|
-| Simran Savita | Frontend Developer & QA |
-| Jatin Yadav | Backend Developer (Database +security) |
 
 ---
 
